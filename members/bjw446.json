@@ -11,8 +11,8 @@
     "description": "Node.js와 Java를 활용하여 백엔드 개발을 하고 있습니다.",
     "birthday": "1991.02.08",
     "location": "서울시 성북구",
-    "email": "member3@example.com",
-    "phone": "010-3333-3333"
+    "email": "bjw446@naver.com",
+    "phone": "010-7679-3901"
   },
   "strengths": [
     "도전적인",
@@ -20,49 +20,20 @@
     "문제해결"
   ],
   "skills": [
-    { "name": "HTML", "progress": 80 },
-    { "name": "CSS", "progress": 85 },
-    { "name": "JavaScript", "progress": 90 },
-    { "name": "React", "progress": 85 },
-    { "name": "TypeScript", "progress": 75 }
+    { "name": "HTML", "progress": 60 },
+    { "name": "CSS", "progress": 60 },
+    { "name": "JavaScript", "progress": 60 },
+    { "name": "React", "progress": 60 },
+    { "name": "TypeScript", "progress": 60 }
   ],
-  "licenses": [
-    "."
-  ],
-  "education": [
+    "education": [
     {
-      "name": "스파르타 고등학교",
-      "period": "2014.03.02 ~ 2017.02.14",
-      "location": "서울시 강남구"
-    },
-    {
-      "name": "스파르타 대학교",
-      "period": "2017.03.02 ~ 2021.02.20",
-      "gpa": "4.0",
-      "location": "서울시 강남구"
+      "name": "내일배움캠프",
+      "period": "2025.11.03 ~ 2026.05.19",
+      "location": "온라인"
     }
-  ],
-  "experience": [
-    {
-      "period": "1년",
-      "company": "테크스타트업",
-      "term": "2022.01~2023.01",
-      "team": "프론트엔드팀, 주니어 개발자",
-      "task": "React 기반 웹 애플리케이션 개발",
-      "project": {
-        "name": "고객 대시보드 개발 프로젝트",
-        "term": "2022.03~2022.12",
-        "detail": "React와 TypeScript를 사용한 대시보드 UI 개발 및 상태 관리 최적화"
-      }
-    }
-  ],
-  "projects": [
-    {
-      "title": "쇼핑몰 웹사이트",
-      "description": "React와 Node.js를 활용한 전자상거래 플랫폼을 개발했습니다. 사용자 인증, 상품 관리, 결제 시스템을 구현하여 안정적인 쇼핑 경험을 제공합니다.",
-      "image": "image/p1.png",
-      "link": "project.html"
-    }
+
   ]
+
 }
 
