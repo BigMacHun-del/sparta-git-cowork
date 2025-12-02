@@ -26,11 +26,11 @@ sparta-git-cowork/
 
 ```bash
 # 저장소 클론
-git clone <repository-url>
+git clone https://github.com/RyanKor/sparta-git-cowork.git
 cd sparta-git-cowork
 
 # 새 브랜치 생성 (본인의 이름 또는 아이디로)
-git checkout -b add-member-<your-name>
+git checkout -b feature/<본인 아이디>
 ```
 
 ### 2. 본인의 팀원 정보 추가
@@ -38,11 +38,11 @@ git checkout -b add-member-<your-name>
 **방법 1: 기존 템플릿 활용 (추천)**
 
 1. `members/` 디렉토리에서 본인과 가장 유사한 역할의 템플릿을 선택합니다:
-   - `member1.json` - 프론트엔드 개발자
-   - `member2.json` - 백엔드 개발자
-   - `member3.json` - UI/UX 디자이너
-   - `member4.json` - 풀스택 개발자
-   - `member5.json` - 데이터 분석가
+   - `member1.json` - 프론트엔드 개발자  `김대훈`
+   - `member2.json` - 백엔드 개발자     `이재환`
+   - `member3.json` - UI/UX 디자이너   `배주원`
+   - `member4.json` - 풀스택 개발자     `조성진`
+   - `member5.json` - 데이터 분석가     `김규범`
 
 2. 선택한 템플릿 파일을 복사하여 본인의 JSON 파일을 생성합니다:
    ```bash
