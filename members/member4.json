@@ -1,68 +1,41 @@
 {
-  "id": "member4",
+  "id": "imprity",
   "name": "조성진",
   "subName": "잘생긴 개발자",
-  "profileImage": "image/profile_image.png",
+  "profileImage": "image/member4.jpg",
   "introduction": {
     "quote": "프론트엔드와 백엔드를\n모두 다루고 싶은 매우 잘생긴 개발자입니다.",
-    "detail": "프론트엔드부터 백엔드까지 전체 스택을 이해하고 개발할 수 있어으면 좋겠습니다.. React와 Go를 주로 사용하며, 백 전체적인 흐름을 파악하여 효율적인 솔루션을 제공합니다."
+    "detail": "지금은 sql을 공부 하고 있습니다."
   },
   "info": {
-    "description": "React와 Go를 활용하여 풀스택 개발을 하고 있습니다.",
-    "birthday": "1996.05.12",
-    "location": "서울시 송파구",
-    "email": "member4@example.com",
-    "phone": "010-4444-4444"
+    "description": "sql을 배우고 있고 spring을 배울 계획이 있는 junior 개발자.",
+    "birthday": "1990.01.01",
+    "location": "제주도",
+    "email": "imprity041@gmail.com",
+    "phone": "010-7777-7777"
   },
   "strengths": [
-    "통찰력",
-    "실행력",
-    "팀워크"
+    "노력"
   ],
   "skills": [
-    { "name": "HTML", "progress": 85 },
-    { "name": "CSS", "progress": 80 },
-    { "name": "JavaScript", "progress": 90 },
-    { "name": "React", "progress": 85 },
-    { "name": "Node.js", "progress": 80 }
+    { "name": "HTML", "progress": 77 },
+    { "name": "CSS", "progress": 77 },
+    { "name": "JavaScript", "progress": 77 },
+    { "name": "TypeScript", "progress": 77 },
+    { "name": "Go", "progress": 77 },
+    { "name": "Java", "progress": 77 },
+    { "name": "SQL", "progress": 77 },
+    { "name": "C", "progress": 77 }
   ],
-  "licenses": [
-    "정보처리기사",
-    "SQLD"
-  ],
-  "education": [
-    {
-      "name": "스파르타 고등학교",
-      "period": "2012.03.02 ~ 2015.02.14",
-      "location": "서울시 송파구"
-    },
-    {
-      "name": "스파르타 대학교",
-      "period": "2015.03.02 ~ 2019.02.20",
-      "gpa": "3.9",
-      "location": "서울시 송파구"
-    }
-  ],
-  "experience": [
-    {
-      "period": "2년",
-      "company": "IT 서비스 회사",
-      "term": "2021.01~2023.01",
-      "team": "개발팀, 주니어 개발자",
-      "task": "풀스택 웹 애플리케이션 개발",
-      "project": {
-        "name": "실시간 채팅 시스템 개발",
-        "term": "2021.06~2022.03",
-        "detail": "React와 Socket.io를 활용한 실시간 채팅 애플리케이션 개발"
-      }
-    }
-  ],
+  "licenses": [],
+  "education": [],
+  "experience": [],
   "projects": [
     {
-      "title": "협업 플랫폼",
-      "description": "팀 협업을 위한 웹 플랫폼을 개발했습니다. React로 프론트엔드를, Node.js로 백엔드를 구현하여 실시간 업데이트와 파일 공유 기능을 제공합니다.",
-      "image": "image/p2.png",
-      "link": "project2.html"
+      "title": "지뢰찾기",
+      "description": "제가 만든건데 심심하면 해보세요",
+      "image": "",
+      "link": "https://imprity.github.io/posts/minesweeper/"
     }
   ]
 }
